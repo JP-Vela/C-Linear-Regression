@@ -1,0 +1,1 @@
+g++ -o lineFit lineFit.cpp
